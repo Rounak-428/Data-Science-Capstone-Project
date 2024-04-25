@@ -8,7 +8,7 @@ Final Project Code - https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebook
 
 BlogPost - http://carcross.ltd/capstone-project-the-battle-of-neighborhoods-finding-a-better-place-in-scarborough-toronto/
 
-Specialization Certificate Link:
+Specialization Certificate Link: https://coursera.org/verify/professional-cert/JUPFMPQSJC3A
 
 ### Description:
 
